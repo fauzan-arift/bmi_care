@@ -25,8 +25,11 @@ BMI Care adalah aplikasi Flutter yang dirancang untuk membantu pengguna menghitu
    git clone https://github.com/fauzan-arift/bmi_care.git
 3. Masuk ke direktori proyek:
     ```bash
+    cd bmi_care
+3. Jalankan perintah berikut untuk menginstal dependensi:
+    ```bash
     flutter pub get
-4. Masuk ke direktori proyek:
+4. Jalankan aplikasi:
     ```bash
     flutter run
 
